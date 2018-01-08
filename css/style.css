@@ -59,7 +59,7 @@ top:0;
 left:0;
 width:100%;
 height:100%;
-background-image: url("../img/white-oak-unfinished-select-multi.jpg");
+background-image: url("../img/50Yorkville1.jpg");
 }
 .maskHeader2{
 position:absolute;
@@ -644,4 +644,13 @@ font-size: 18px;
     color: #fff;
     background-color: transparent;
     border-color: #fff;
+}
+.btn-primary2{
+	background-color: black;
+	border-color: black;
+}
+.btn-primary2:hover{
+	background-color: #70819F;
+	border-color: #70819F;
+	color: white;
 }
