@@ -637,7 +637,6 @@ font-size: 18px;
 .btn-primary:active,
 .btn-primary.active,
 .btn-primary{
-  color: #ffffff;
   border-color: #ffffff;
 	background-image: none;
 	border-radius: 0px;
