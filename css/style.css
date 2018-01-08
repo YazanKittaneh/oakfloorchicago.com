@@ -19,6 +19,14 @@ margin-top: 0px;
 margin-bottom: 0;
 padding: 20px 0
 }
+h1 {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+}
 #boxWrapp{
 width:100%;
 margin:0 auto;
@@ -629,7 +637,6 @@ font-size: 18px;
 .btn-primary.active,
 .btn-primary{
   color: #ffffff;
-  background-color: #000;
   border-color: #ffffff;
 	background-image: none;
 	border-radius: 0px;
