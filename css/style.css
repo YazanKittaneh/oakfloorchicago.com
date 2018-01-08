@@ -636,12 +636,12 @@ font-size: 18px;
 .btn-primary.active,
 .btn-primary{
   color: transparent;
-  border-color: #ffffff;
+  border-color: #transparent;
 	background-image: none;
 	border-radius: 0px;
 }
 .btn-primary {
     color: #fff;
-    background-color: #000;
+    background-color: #transparent;
     border-color: #fff;
 }
